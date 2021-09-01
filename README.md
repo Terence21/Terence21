@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Terence Peterson
 - 🏫 I study at Temple University as a senior computer science student 
-- 💼 I've worked at Yahoo Sports! as an Android Intern
+- 💼 I've worked at Yahoo Sports! as an Android Intern (summer 2021)
 
 I'm currently working on:
 - Full stack Movie reccomendation application using The Movie Database API
