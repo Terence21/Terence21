@@ -4,7 +4,7 @@
 
 I'm currently working on:
 - Full stack Movie reccomendation application using The Movie Database API
-- Presentation helper application using modern jetpack APIs
+- Presentation helper application using modern jetpack APIs and sensors
 
   
 
