@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Terence Peterson
-- 🏫 I study at Temple University as a senior computer science student 
-- 💼 I've worked at Yahoo Sports! as an Android Intern (summer 2021)
+👋 Hi, I’m Terence Peterson
+- 🏫 I study at Temple University as a senior computer science student, graduating spring 2022
+- 💼 I've worked at Yahoo Sports! as a swe intern (summer 2021)
+- 📌 I'm Joining Pinterest as a new grad software engineer summer 2022
 
 I'm currently working on:
 - Full stack Movie reccomendation application using The Movie Database API
